@@ -1,11 +1,17 @@
 body{
-       font-family: 'Noto Sans TC', sans-serif;!important!
+       font-family: 'Noto Sans TC', sans-serif;!important
 }
-
-h1,h3,h4,h5{
-       font-family: 'Noto Sans TC', sans-serif;!important!
+h1{
+       font-family: 'Lobster', cursive;!important
+}
+              
+h3{
+       font-family: 'Dancing Script', cursive;!important
+}
+h4,h5{
+       font-family: 'Noto Sans TC', sans-serif;!important
 }
 
 h2{
-       font-family: 'Noto Serif TC', serif;!important!
+       font-family: 'Noto Serif TC', serif;!important
 }
